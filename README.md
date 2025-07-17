@@ -13,15 +13,15 @@ Criar um sistema em linguagem C para auxiliar no controle de atendimentos de um 
 🧠 Aprendizados
 Este projeto reforçou conceitos essenciais de programação em C, como:
 
-Estruturas (struct)
+- Estruturas (struct)
 
-Modularização de código com funções
+- Modularização de código com funções
 
-Vetores para armazenamento de dados
+- Vetores para armazenamento de dados
 
-Condições e laços
+- Condições e laços
 
-Lógica para cálculo condicional de valores
+- Lógica para cálculo condicional de valores
 
 🛠️ Funcionalidades
 Tela principal com menu de navegação.
